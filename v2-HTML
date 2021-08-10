@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<html>
+<head>
+    
+  <title> NZ Eco Mahurangi Collage</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+ <body>
+   <div id= wrapper>
+   <h1 id= "home">
+      <img id= "logo" src="images/NZ%20Eco%20logo%20copy.png"> 
+	</h1>
+         
+<h2>
+  NZ Eco Keeping Mahurangi Collage Clean!!
+</h2>
+
+<nav class="sticky"><ul>
+    <li> <a href="#home"> Home</a></li>
+     <li> <a href="#info"> Info</a></li>
+     <li>  <a href="#contact"> Contact</a></li>
+     <li>  <a href="#footer"> footer</a></li>
+</ul>      
+</nav>
+ 
+<img id= "main-img" src= https://ychef.files.bbci.co.uk/976x549/p07n19vr.jpg>
+<hr class= "rounded" id="info">
+
+<h3> 
+<h3>INFOMATION</h3> 
+<p1> Here at NZ Eco we have a priority to keep the warkworth community and Mahurangi College 
+Pest and Rubbish free, how we can do that is we need your help, If you see Rubbish on the ground don’t walk past it pick it up. By doing this you are saving millions of animals SeaLife, Life on Land, Bird Life from Extinction or going Endangered. So by looking at our website you can help make the community and school a clean place.    
+<hr class= "rounded">
+
+    
+<h4>How You Can Help:</h4> 
+
+How you can help is when walking around picking up the Rubbish. 
+If you live on a farm set traps in Shed, House Roofs, to trap the Pest. 
+Set bait and little mouse traps in your homes to catch the Mice and Rats. 
+If you have spare time and nothing to do go around your house or the streets and pick up some rubbish.    
+</p1>   </h3>
+<hr class= "rounded">
+ 
+ <img id= "main-img" src= https://www.arborday.org/trees/lifestages/images/figure-life-stages.jpg>
+<hr class= "rounded" id=contact>
+
+        <h4>
+<h4>CONTACT</h4> 
+<div class="container">
+  <form action="file:///Users/ellawoodcock/Desktop/my%20website/index%20(1).html">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+        <option value="New Zealand">NZ</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+       </h4>
+    
+<hr class= "rounded" id= footer>
+      
+<footer>
+  <p>Developers: 
+    <p2>Ella Woodcock</p2>
+    <p3> Izzie Oflynn</p3>
+    <p> Contact us:</p>
+  <p><a href="mailto:Ew46@mahurangi.school.nz">ew46@mahurangi.school.nz</a></p>
+ <p><a href="mailto:Io17@mahurangi.school.nz">io17@mahurangi.school.nz</a></p>
+<p> Other: </p>
+    <p><li><a href= "https://environment.govt.nz/"> Minisry of Enviroment</a></li></p>
+    <p><li><a href= " https://www.environz.co.nz/"> EnviroNZ</a></li></p>
+
+</footer>
+  </form>
+</div> 
+</div>
+</body>
+</html>
